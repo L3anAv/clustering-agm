@@ -10,7 +10,6 @@ import org.junit.Test;
 
 public class GrafoTest {
 	
-	// Se pueden ingresar dos vertices con la misma coordenada que otro vertice?
 	private Grafo grafoTest;
 	
 	public GrafoTest() {
